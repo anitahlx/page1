@@ -1,12 +1,8 @@
-# Lianxi Huang
- welcome to my website
+# group41 
+## Lianxi Huang & Chenxi Shang
 
- Iam blabla
- dguyqdbql
- dbqkjwdbkj
+ Welcome to my our final apps
+ It's a app focus on used car transactions in India.
 
-## skills
- Injwbdj:
- - pdqubw
- - ihwdk
- - dhuqhdb
+Here is the Link:
+## https://anitahlx-final-final-project-3gabey.streamlit.app/
